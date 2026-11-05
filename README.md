@@ -1,1 +1,1 @@
-## I am a Cybersecurity student at FIU. Building projects, learning by doing, and exploring the intersection of security and software development. This repository documents my journey through projects, experiences, and hands on learning.
+## I am a Cybersecurity student at FIU. Building projects, learning by doing, and exploring the intersection of security and software development. This repository documents my development through projects, experiences, and hands on learning.
